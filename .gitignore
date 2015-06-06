@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+*.so
+*.class
+*.lprof
+log
+*.log
+*~
+build/
+/dist/
+MANIFEST
+*.egg-info/
+.tox/
+.vagrant
+/env/
