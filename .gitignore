@@ -3,6 +3,7 @@
 *.so
 *.class
 *.lprof
+*.swp
 log
 *.log
 *~
